@@ -1,1 +1,2 @@
 # coinword
+For love!
